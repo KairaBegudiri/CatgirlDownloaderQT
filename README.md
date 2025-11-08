@@ -5,7 +5,7 @@ A QT application that downloads images of catgirl based on https://nekos.moe
 
 # CatgirlDownloaderQT
 
-CatgirlDownloaderQT is a GUI application developed to download and manage Catgirl content. The project is written in Python and uses the Qt framework for its user interface.
+CatgirlDownloaderQT is a GUI application developed to download Catgirl images. The project is written in Python Qt with PySide6 library.
 
 ## Getting Started
 
