@@ -24,7 +24,6 @@ class NekoApp(QWidget):
         self.image_label.setMinimumHeight(400)
         main_layout.addWidget(self.image_label)
 
-        # Progress bar
         self.progress = QProgressBar()
         self.progress.setRange(0, 100)
         self.progress.setValue(0)
