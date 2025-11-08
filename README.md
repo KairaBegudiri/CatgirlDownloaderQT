@@ -4,7 +4,7 @@ A QT application that downloads images of catgirl based on https://nekos.moe
 
 | Catppuccin | Breeze | Breeze Dark |
 | ---- | ---- | ---- |
-| <img width="887" height="1243" alt="resim" src="https://github.com/user-attachments/assets/d349f998-0a11-4bf2-a149-f1b503a6b5ab" /> | <img width="892" height="1247" alt="resim" src="https://github.com/user-attachments/assets/ff1edce0-c495-4d0c-b932-8210a8de5ae6" /> | <img width="886" height="1247" alt="resim" src="https://github.com/user-attachments/assets/21a3c922-48c6-485d-b97b-2ea723b2a4e3" /> |
+| <img width="887" height="1243" alt="resim" src="https://github.com/user-attachments/assets/d349f998-0a11-4bf2-a149-f1b503a6b5ab" /> | <img  width="887" height="1243" alt="resim" src="https://github.com/user-attachments/assets/ff1edce0-c495-4d0c-b932-8210a8de5ae6" /> | <img  width="887" height="1243" alt="resim" src="https://github.com/user-attachments/assets/21a3c922-48c6-485d-b97b-2ea723b2a4e3" /> |
 
 # CatgirlDownloaderQT
 
