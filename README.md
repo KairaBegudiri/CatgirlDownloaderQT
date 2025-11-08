@@ -18,13 +18,13 @@ Before you can run the application, you will need to have the following software
 - Git (for cloning the repository)
 - Qt5 or Qt6 (for PySide6)
 
-### Installation
-## With shell script
+## Installation
+### With shell script
 ```bash
 sh run.sh
 ```
 
-## Manuelly 
+### Manuelly 
 1. **Clone the repository using Git**:
     ```bash
     git clone https://github.com/KairaBegudiri/CatgirlDownloaderQT.git
@@ -38,7 +38,7 @@ sh run.sh
     pip install -r requirements.txt
     ```
 
-### Running the Application
+#### Running the Application
 
 To run the application, use the following command:
 ```bash
