@@ -19,7 +19,12 @@ Before you can run the application, you will need to have the following software
 - Qt5 or Qt6 (for PySide6)
 
 ### Installation
+## With shell script
+```bash
+sh run.sh
+```
 
+## Manuelly 
 1. **Clone the repository using Git**:
     ```bash
     git clone https://github.com/KairaBegudiri/CatgirlDownloaderQT.git
